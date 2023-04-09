@@ -1,2 +1,2 @@
-# qamandzhieva.github.io
+Это для себя
 Сайт визитка html/css/js
